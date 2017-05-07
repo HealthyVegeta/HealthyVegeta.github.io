@@ -1,2 +1,2 @@
 # HealthyVegeta.github.io
-github profile pages
+github profile & blog pages
